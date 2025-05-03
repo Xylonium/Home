@@ -27,7 +27,7 @@
   {
     "icon": "Tv",
     "name": "LibreTV",
-    "link": "https://xons.deno.dev/"
+    "link": "https://libre.xons.me/"
   },
   {
     "icon": "NetworkWired",
@@ -72,7 +72,7 @@
   {
     "icon": "DiceD6",
     "name": "TVBox",
-    "link": "https://tv.xons.me/"
+    "link": "https://tvbox.xons.me/"
   },
   {
     "icon": "Sun",
