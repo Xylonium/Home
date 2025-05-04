@@ -40,24 +40,24 @@
     "link": "https://nav.oo00.me/"
   },
   {
-    "icon": "Icicles",
-    "name": "探针",
-    "link": "https://nezha.xons.dpdns.org/"
-  },
-  {
     "icon": "Leanpub",
     "name": "阅后即焚",
     "link": "https://br.xons.dpdns.org/"
   },
   {
-    "icon": "GlobeAmericas",
-    "name": "GHProxy",
+    "icon": "GithubSquare",
+    "name": "GhProxy",
     "link": "https://ghp.xons.me/"
   },
   {
     "icon": "Docker",
     "name": "Docker",
     "link": "https://docker.xon.dedyn.io/"
+  },
+  {
+    "icon": "DiceD6",
+    "name": "TVBox",
+    "link": "https://tvbox.xons.me/"
   },
   {
     "icon": "PhotoVideo",
@@ -70,24 +70,24 @@
     "link": "https://pan.xons.dpdns.org/"
   },
   {
-    "icon": "DiceD6",
-    "name": "TVBox",
-    "link": "https://tvbox.xons.me/"
-  },
-  {
-    "icon": "Sun",
-    "name": "Sun-Panel",
-    "link": "https://sun-panel.xons.dpdns.org/"
-  },
-  {
-    "icon": "Code",
-    "name": "WebSSH",
-    "link": "https://ssh.xons.dpdns.org/"
-  },
-  {
     "icon": "CommentDots",
     "name": "NextChat",
     "link": "https://gpt.xons.me/"
+  },
+  {
+    "icon": "GgCircle",
+    "name": "订阅转换",
+    "link": "https://link.xons.me/"
+  },
+  {
+    "icon": "Gratipay",
+    "name": "Sub",
+    "link": "https://sub.xnstar.dpdns.org/"
+  },
+  {
+    "icon": "ShieldAlt",
+    "name": "DoH",
+    "link": "https://xons.zone.id/"
   },
   {
     "icon": "InternetExplorer",
