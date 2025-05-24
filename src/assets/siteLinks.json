@@ -7,7 +7,7 @@
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://hao.lylme.com/"
+    "link": "https://xon.hidns.co/"
   },
   {
     "icon": "Music",
@@ -37,12 +37,12 @@
   {
     "icon": "Page4",
     "name": "Homepage",
-    "link": "https://xon.hidns.co/"
+    "link": "https://nav.xons.me/"
   },
   {
     "icon": "Leanpub",
-    "name": "阅后即焚",
-    "link": "https://br.xons.dpdns.org/"
+    "name": "密信",
+    "link": "https://hou.deno.dev/"
   },
   {
     "icon": "GithubSquare",
@@ -85,9 +85,9 @@
     "link": "https://sub.xnstar.dpdns.org/"
   },
   {
-    "icon": "ShieldAlt",
-    "name": "DoH",
-    "link": "https://xons.zone.id/"
+    "icon": "Pinterest",
+    "name": "Pintree",
+    "link": "https://pintree.xons.me/"
   },
   {
     "icon": "InternetExplorer",
