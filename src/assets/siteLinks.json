@@ -5,9 +5,9 @@
     "link": "https://cdn.xons.me/"
   },
   {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://xon.hidns.co/"
+    "icon": "Page4",
+    "name": "Homepage",
+    "link": "https://nav.xons.me/"
   },
   {
     "icon": "Music",
@@ -15,14 +15,9 @@
     "link": "https://music.xons.me"
   },
   {
-    "icon": "Hotjar",
-    "name": "今日热榜",
-    "link": "https://hot.xons.me"
-  },
-  {
-    "icon": "RssSquare",
-    "name": "Rss订阅",
-    "link": "https://rss.1024.do/"
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://xon.hidns.co/"
   },
   {
     "icon": "Tv",
@@ -30,34 +25,14 @@
     "link": "https://libre.xons.me/"
   },
   {
-    "icon": "NetworkWired",
-    "name": "站点监测",
-    "link": "https://status.xons.me"
-  },
-  {
-    "icon": "Page4",
-    "name": "Homepage",
-    "link": "https://nav.xons.me/"
-  },
-  {
-    "icon": "Leanpub",
-    "name": "密信",
-    "link": "https://hou.deno.dev/"
-  },
-  {
-    "icon": "GithubSquare",
-    "name": "GhProxy",
-    "link": "https://ghp.xons.me/"
-  },
-  {
-    "icon": "Docker",
-    "name": "Docker",
-    "link": "https://docker.xon.dedyn.io/"
-  },
-  {
     "icon": "DiceD6",
     "name": "TVBox",
     "link": "https://tvbox.xons.me/"
+  },
+  {
+    "icon": "NetworkWired",
+    "name": "站点监测",
+    "link": "https://status.xons.me"
   },
   {
     "icon": "PhotoVideo",
@@ -70,24 +45,19 @@
     "link": "https://pan.xons.dpdns.org/"
   },
   {
+    "icon": "Leanpub",
+    "name": "密信",
+    "link": "https://hou.deno.dev/"
+  },
+  {
+    "icon": "Linux",
+    "name": "Linux-command",
+    "link": "https://linux.xons.me/"
+  },
+  {
     "icon": "CommentDots",
     "name": "NextChat",
     "link": "https://gpt.xons.me/"
-  },
-  {
-    "icon": "GgCircle",
-    "name": "订阅转换",
-    "link": "https://link.xons.me/"
-  },
-  {
-    "icon": "Gratipay",
-    "name": "Sub",
-    "link": "https://sub.xnstar.dpdns.org/"
-  },
-  {
-    "icon": "Pinterest",
-    "name": "Pintree",
-    "link": "https://pintree.xons.me/"
   },
   {
     "icon": "InternetExplorer",
