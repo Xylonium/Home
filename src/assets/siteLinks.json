@@ -7,7 +7,7 @@
   {
     "icon": "Page4",
     "name": "Homepage",
-    "link": "https://nav.xons.me/"
+    "link": "https://home.xons.me/"
   },
   {
     "icon": "Music",
@@ -15,14 +15,14 @@
     "link": "https://music.xons.me"
   },
   {
+    "icon": "Pinterest",
+    "name": "Pintree",
+    "link": "https://pintree.xons.me/"
+  },
+  {
     "icon": "Compass",
     "name": "起始页",
     "link": "https://xon.hidns.co/"
-  },
-  {
-    "icon": "Tv",
-    "name": "LibreTV",
-    "link": "https://libre.xons.me/"
   },
   {
     "icon": "DiceD6",
@@ -85,9 +85,9 @@
     "link": "https://picsmaller.com/"
   },
   {
-    "icon": "HandSpock",
-    "name": "Splayer",
-    "link": "https://sp.xons.me/"
+    "icon": "Unlink",
+    "name": "订阅转换",
+    "link": "https://suburl.v1.mk/"
   }
 
 ]

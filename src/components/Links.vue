@@ -43,7 +43,7 @@
 <script setup>
 import { Icon } from "@vicons/utils";
 // 可前往 https://www.xicons.org 自行挑选并在此处引入
-import { Link, Blog, Compass, Music, CommentDots, NetworkWired, Page4, Leanpub, PhotoVideo, CloudDownloadAlt, InternetExplorer, DiceD6, ArrowAltCircleDown, DotCircle, Linux, BehanceSquare, Image ,Tv ,HandSpock } from "@vicons/fa"; // 注意使用正确的类别
+import { Link, Blog, Compass, Music, CommentDots, NetworkWired, Page4, Leanpub, PhotoVideo, CloudDownloadAlt, InternetExplorer, DiceD6, ArrowAltCircleDown, DotCircle, Linux, BehanceSquare, Image ,Pinterest ,Unlink } from "@vicons/fa"; // 注意使用正确的类别
 import { mainStore } from "@/store";
 import { Swiper, SwiperSlide } from "swiper/vue";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -79,8 +79,8 @@ const siteIcon = {
   Linux,
   BehanceSquare,
   Image,
-  Tv,
-  HandSpock,
+  Pinterest,
+  Unlink,
 };
 
 // 链接跳转
