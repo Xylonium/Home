@@ -32,7 +32,7 @@
   {
     "icon": "NetworkWired",
     "name": "站点监测",
-    "link": "https://status.xons.me"
+    "link": "https://kuma.xons.dpdns.org/status/monitor"
   },
   {
     "icon": "PhotoVideo",
