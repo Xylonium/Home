@@ -2,17 +2,17 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://cdn.xons.me/"
+    "link": "https://sink.xons.me/xc4wat"
   },
   {
     "icon": "Page4",
     "name": "Homepage",
-    "link": "https://home.xons.me/"
+    "link": "https://sink.xons.me/g35emx"
   },
   {
     "icon": "Music",
     "name": "音乐",
-    "link": "https://music.xons.me"
+    "link": "https://sink.xons.me/98w6mq"
   },
   {
     "icon": "Pinterest",
@@ -27,7 +27,7 @@
   {
     "icon": "DiceD6",
     "name": "TVBox",
-    "link": "https://tvbox.xons.me/"
+    "link": "https://sink.xons.me/gbr5mt"
   },
   {
     "icon": "NetworkWired",
@@ -37,12 +37,12 @@
   {
     "icon": "PhotoVideo",
     "name": "图床",
-    "link": "https://img.xons.me/"
+    "link": "https://sink.xons.me/wn2u8c"
   },
   {
     "icon": "CloudDownloadAlt",
     "name": "网盘",
-    "link": "https://pan.xons.dpdns.org/"
+    "link": "https://sink.xons.me/8y43cf"
   },
   {
     "icon": "Leanpub",
@@ -55,9 +55,9 @@
     "link": "https://linux.xons.me/"
   },
   {
-    "icon": "CommentDots",
-    "name": "NextChat",
-    "link": "https://gpt.xons.me/"
+    "icon": "Robot",
+    "name": "OpenWebUI",
+    "link": "https://sink.xons.me/75wckz"
   },
   {
     "icon": "InternetExplorer",
