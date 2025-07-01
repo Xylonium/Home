@@ -32,7 +32,7 @@
   {
     "icon": "NetworkWired",
     "name": "站点监测",
-    "link": "https://kuma.xons.dpdns.org/status/monitor"
+    "link": "https://sink.xons.me/t6kgjz"
   },
   {
     "icon": "PhotoVideo",
@@ -62,7 +62,7 @@
   {
     "icon": "InternetExplorer",
     "name": "SiteProxy",
-    "link": "https://site.xons.dpdns.org/"
+    "link": "https://suburl.v1.mk/"
   },
   {
     "icon": "BehanceSquare",
@@ -87,7 +87,7 @@
   {
     "icon": "Unlink",
     "name": "订阅转换",
-    "link": "https://suburl.v1.mk/"
+    "link": "https://sub.xons.me/"   
   }
 
 ]
